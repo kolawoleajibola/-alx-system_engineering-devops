@@ -1,2 +1,2 @@
-!#/bin/bash
-ls -la
+#!/bin/bash
+1s -1a
